@@ -1,0 +1,82 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor",
+  "elements": [
+    {
+      "id": "KR68HIwzhTwu1IvKzhoGc",
+      "type": "rectangle",
+      "x": 354.6796875,
+      "y": 420.68359375,
+      "width": 241.40625,
+      "height": 79.17578125,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 3
+      },
+      "seed": 1697478374,
+      "version": 71,
+      "versionNonce": 1833139110,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "eaT2SIOaEq5tCFlQqjDF-"
+        }
+      ],
+      "updated": 1723559310313,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "eaT2SIOaEq5tCFlQqjDF-",
+      "type": "text",
+      "x": 425.3828125,
+      "y": 447.771484375,
+      "width": 100,
+      "height": 25,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "seed": 1240919654,
+      "version": 53,
+      "versionNonce": 467736294,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1723559310313,
+      "link": null,
+      "locked": false,
+      "text": "服务全景图",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "baseline": 18,
+      "containerId": "KR68HIwzhTwu1IvKzhoGc",
+      "originalText": "服务全景图",
+      "lineHeight": 1.25
+    }
+  ],
+  "appState": {
+    "gridSize": null,
+    "viewBackgroundColor": "#ffffff"
+  },
+  "files": {}
+}
