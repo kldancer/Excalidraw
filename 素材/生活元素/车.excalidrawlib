@@ -1,0 +1,80 @@
+{
+    "type": "excalidrawlib",
+    "version": 2,
+    "source": "https://excalidraw.com",
+    "libraryItems": [
+        {
+            "status": "published",
+            "elements": [
+                {
+                    "type": "rectangle",
+                    "x": 0,
+                    "y": 0,
+                    "width": 200,
+                    "height": 100,
+                    "fillStyle": "solid",
+                    "backgroundColor": "#ff0000",
+                    "strokeColor": "#000000",
+                    "strokeWidth": 2,
+                    "roundness": { "type": 2, "value": 10 }
+                  },
+                  {
+                    "type": "ellipse",
+                    "x": 20,
+                    "y": 80,
+                    "width": 60,
+                    "height": 60,
+                    "fillStyle": "solid",
+                    "backgroundColor": "#000000",
+                    "strokeColor": "#000000",
+                    "strokeWidth": 2
+                  },
+                  {
+                    "type": "ellipse",
+                    "x": 120,
+                    "y": 80,
+                    "width": 60,
+                    "height": 60,
+                    "fillStyle": "solid",
+                    "backgroundColor": "#000000",
+                    "strokeColor": "#000000",
+                    "strokeWidth": 2
+                  },
+                  {
+                    "type": "rectangle",
+                    "x": 20,
+                    "y": 20,
+                    "width": 60,
+                    "height": 40,
+                    "fillStyle": "solid",
+                    "backgroundColor": "#ffffff",
+                    "strokeColor": "#000000",
+                    "strokeWidth": 2,
+                    "roundness": { "type": 2, "value": 5 }
+                  },
+                  {
+                    "type": "ellipse",
+                    "x": 10,
+                    "y": 10,
+                    "width": 20,
+                    "height": 20,
+                    "fillStyle": "solid",
+                    "backgroundColor": "#ffff00",
+                    "strokeColor": "#000000",
+                    "strokeWidth": 2
+                  },
+                  {
+                    "type": "ellipse",
+                    "x": 170,
+                    "y": 10,
+                    "width": 20,
+                    "height": 20,
+                    "fillStyle": "solid",
+                    "backgroundColor": "#ffff00",
+                    "strokeColor": "#000000",
+                    "strokeWidth": 2
+                  }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,128 @@
+{
+    "type": "excalidrawlib",
+    "version": 2,
+    "source": "https://excalidraw.com",
+    "libraryItems": [
+      {
+        "id": "post-office",
+        "status": "published",
+        "elements": [
+          {
+            "type": "rectangle",
+            "x": 100,
+            "y": 100,
+            "width": 300,
+            "height": 250,
+            "angle": 0,
+            "strokeColor": "#4a5568",
+            "backgroundColor": "#f7fafc",
+            "fillStyle": "solid",
+            "strokeWidth": 2,
+            "roughness": 1
+          },
+          {
+            "type": "triangle",
+            "x": 150,
+            "y": 50,
+            "width": 200,
+            "height": 100,
+            "angle": 0,
+            "strokeColor": "#c53030",
+            "backgroundColor": "#e53e3e",
+            "fillStyle": "solid",
+            "strokeWidth": 2
+          },
+          {
+            "type": "ellipse",
+            "x": 240,
+            "y": 80,
+            "width": 40,
+            "height": 40,
+            "angle": 0,
+            "strokeColor": "#000000",
+            "backgroundColor": "#ffffff",
+            "fillStyle": "solid",
+            "strokeWidth": 2,
+            "rx": 20,
+            "ry": 20
+          },
+          {
+            "type": "rectangle",
+            "x": 200,
+            "y": 220,
+            "width": 100,
+            "height": 130,
+            "angle": 0,
+            "strokeColor": "#2d3748",
+            "backgroundColor": "#e2e8f0",
+            "fillStyle": "solid",
+            "strokeWidth": 3
+          },
+          {
+            "type": "ellipse",
+            "x": 270,
+            "y": 280,
+            "width": 8,
+            "height": 8,
+            "angle": 0,
+            "strokeColor": "#000000",
+            "backgroundColor": "#d69e2e",
+            "fillStyle": "solid"
+          },
+          {
+            "type": "diamond",
+            "x": 140,
+            "y": 180,
+            "width": 40,
+            "height": 40,
+            "angle": 45,
+            "strokeColor": "#2b6cb0",
+            "backgroundColor": "#ebf8ff",
+            "fillStyle": "solid"
+          },
+          {
+            "type": "rectangle",
+            "x": 360,
+            "y": 280,
+            "width": 30,
+            "height": 70,
+            "angle": 0,
+            "strokeColor": "#c53030",
+            "backgroundColor": "#e53e3e",
+            "fillStyle": "solid"
+          },
+          {
+            "type": "line",
+            "points": [
+              [365, 300],
+              [385, 300]
+            ],
+            "strokeColor": "#ffffff",
+            "strokeWidth": 2
+          },
+          {
+            "type": "text",
+            "x": 180,
+            "y": 150,
+            "text": "Linux Post",
+            "fontSize": 24,
+            "fontFamily": 1,
+            "textAlign": "left",
+            "verticalAlign": "top",
+            "strokeColor": "#2d3748"
+          },
+          {
+            "type": "rectangle",
+            "x": 280,
+            "y": 30,
+            "width": 20,
+            "height": 60,
+            "angle": 0,
+            "strokeColor": "#4a5568",
+            "backgroundColor": "#cbd5e0",
+            "fillStyle": "solid"
+          }
+        ]
+      }
+    ]
+  }

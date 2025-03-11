@@ -1692,8 +1692,8 @@
     },
     {
       "type": "text",
-      "version": 928,
-      "versionNonce": 1821926760,
+      "version": 929,
+      "versionNonce": 1892162405,
       "isDeleted": false,
       "id": "ktkbgWf0LQaJviq94ZjCN",
       "fillStyle": "solid",
@@ -1706,7 +1706,7 @@
       "y": 399.24047670211326,
       "strokeColor": "#e03131",
       "backgroundColor": "#ced4da",
-      "width": 504.6875,
+      "width": 494.6875,
       "height": 69,
       "seed": 877113737,
       "groupIds": [],
@@ -1718,7 +1718,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1734425637852,
+      "updated": 1740654568521,
       "link": null,
       "locked": false,
       "fontSize": 20,

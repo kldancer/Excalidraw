@@ -1,0 +1,129 @@
+{
+  "type": "excalidrawlib",
+  "version": 2,
+  "library": [
+    {
+      "id": "cargo-station",
+      "elements": [
+        {
+          "type": "rectangle",
+          "x": 200,
+          "y": 150,
+          "width": 400,
+          "height": 250,
+          "angle": 0,
+          "strokeColor": "#4a5568",
+          "backgroundColor": "#f0f4f8",
+          "fillStyle": "solid",
+          "strokeWidth": 2,
+          "roughness": 1
+        },
+        {
+          "type": "line",
+          "points": [
+            [180, 150],
+            [300, 100],
+            [420, 150],
+            [540, 100],
+            [620, 150]
+          ],
+          "strokeColor": "#2b6cb0",
+          "backgroundColor": "#bee3f8",
+          "fillStyle": "solid",
+          "strokeWidth": 3
+        },
+        {
+          "type": "rectangle",
+          "x": 100,
+          "y": 320,
+          "width": 600,
+          "height": 30,
+          "angle": 0,
+          "strokeColor": "#718096",
+          "backgroundColor": "#e2e8f0",
+          "fillStyle": "cross-hatch"
+        },
+        {
+          "type": "ellipse",
+          "x": 120,
+          "y": 310,
+          "width": 40,
+          "height": 40,
+          "angle": 0,
+          "strokeColor": "#4a5568",
+          "backgroundColor": "#cbd5e0",
+          "fillStyle": "solid",
+          "strokeWidth": 2
+        },
+        {
+          "type": "rectangle",
+          "x": 500,
+          "y": 280,
+          "width": 120,
+          "height": 60,
+          "angle": 0,
+          "strokeColor": "#c53030",
+          "backgroundColor": "#fc8181",
+          "fillStyle": "solid",
+          "roughness": 1
+        },
+        {
+          "type": "rectangle",
+          "x": 250,
+          "y": 200,
+          "width": 80,
+          "height": 60,
+          "angle": 0,
+          "strokeColor": "#d69e2e",
+          "backgroundColor": "#faf089",
+          "fillStyle": "solid",
+          "groupIds": ["cargo"]
+        },
+        {
+          "type": "line",
+          "points": [
+            [400, 120],
+            [400, 80],
+            [420, 100],
+            [380, 100]
+          ],
+          "strokeColor": "#48bb78",
+          "strokeWidth": 2,
+          "angle": 30  
+        },
+        {
+          "type": "text",
+          "x": 300,
+          "y": 180,
+          "text": "Package Hub",
+          "fontSize": 28,
+          "fontFamily": 2,
+          "textAlign": "center",
+          "strokeColor": "#2d3748"
+        },
+        {
+          "type": "ellipse",
+          "x": 350,
+          "y": 240,
+          "width": 100,
+          "height": 60,
+          "angle": 0,
+          "strokeColor": "#c6f6d5",
+          "backgroundColor": "#f0fff4",
+          "fillStyle": "solid",
+          "strokeWidth": 2
+        },
+        {
+          "type": "text",
+          "x": 360,
+          "y": 255,
+          "text": "Fragile!",
+          "fontSize": 16,
+          "fontFamily": 3,
+          "textAlign": "left",
+          "strokeColor": "#48bb78"
+        }
+      ]
+    }
+  ]
+}

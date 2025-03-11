@@ -1,0 +1,133 @@
+{
+    "type": "excalidrawlib",
+    "version": 2,
+    "source": "https://excalidraw.com",
+    "libraryItems": [
+        {
+            "status": "published",
+            "elements": [
+              {
+                "type": "rectangle",
+                "x": 100,
+                "y": 100,
+                "width": 200,
+                "height": 100,
+                "fillStyle": "solid",
+                "backgroundColor": "#cccccc",
+                "strokeColor": "#000000",
+                "strokeWidth": 2
+              },
+              {
+                "type": "rectangle",
+                "x": 120,
+                "y": 120,
+                "width": 20,
+                "height": 20,
+                "fillStyle": "solid",
+                "backgroundColor": "#ffcc00",
+                "strokeColor": "#000000",
+                "strokeWidth": 1
+              },
+              {
+                "type": "rectangle",
+                "x": 150,
+                "y": 120,
+                "width": 20,
+                "height": 20,
+                "fillStyle": "solid",
+                "backgroundColor": "#ffcc00",
+                "strokeColor": "#000000",
+                "strokeWidth": 1
+              },
+              {
+                "type": "rectangle",
+                "x": 180,
+                "y": 120,
+                "width": 20,
+                "height": 20,
+                "fillStyle": "solid",
+                "backgroundColor": "#ffcc00",
+                "strokeColor": "#000000",
+                "strokeWidth": 1
+              },
+              {
+                "type": "rectangle",
+                "x": 220,
+                "y": 160,
+                "width": 40,
+                "height": 20,
+                "fillStyle": "solid",
+                "backgroundColor": "#ff9900",
+                "strokeColor": "#000000",
+                "strokeWidth": 2
+              },
+              {
+                "type": "ellipse",
+                "x": 230,
+                "y": 180,
+                "width": 10,
+                "height": 10,
+                "fillStyle": "solid",
+                "backgroundColor": "#000000",
+                "strokeColor": "#000000",
+                "strokeWidth": 2
+              },
+              {
+                "type": "ellipse",
+                "x": 250,
+                "y": 180,
+                "width": 10,
+                "height": 10,
+                "fillStyle": "solid",
+                "backgroundColor": "#000000",
+                "strokeColor": "#000000",
+                "strokeWidth": 2
+              },
+              {
+                "type": "rectangle",
+                "x": 320,
+                "y": 160,
+                "width": 80,
+                "height": 40,
+                "fillStyle": "solid",
+                "backgroundColor": "#0000ff",
+                "strokeColor": "#000000",
+                "strokeWidth": 2
+              },
+              {
+                "type": "ellipse",
+                "x": 330,
+                "y": 200,
+                "width": 20,
+                "height": 20,
+                "fillStyle": "solid",
+                "backgroundColor": "#000000",
+                "strokeColor": "#000000",
+                "strokeWidth": 2
+              },
+              {
+                "type": "ellipse",
+                "x": 370,
+                "y": 200,
+                "width": 20,
+                "height": 20,
+                "fillStyle": "solid",
+                "backgroundColor": "#000000",
+                "strokeColor": "#000000",
+                "strokeWidth": 2
+              },
+              {
+                "type": "text",
+                "x": 100,
+                "y": 50,
+                "text": "物流中心",
+                "fontSize": 20,
+                "fontFamily": 1,
+                "textAlign": "center",
+                "verticalAlign": "middle",
+                "baseline": 18
+              }
+            ]
+        }
+    ]
+}
